@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Leo, from São Paulo - BR. I'm gratuated in Technology and MBA in Project Manager, I'm also PSM and CSPO certified. I've been working as developer and business analyst since 1999. Currently I'm working as a software developer coordinator at [CVC Corp](https://www.linkedin.com/company/cvc/) and I'm studying ReactJS and Java Sprint Boot applications (APIs). Besides that I'm studying a degree in Geography. I'm father of two girls and in times like this, of home office, I have more time to spend with them, and thhis is awesome.
+
+
 <!--
 **leofalves/leofalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
