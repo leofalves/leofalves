@@ -1,6 +1,12 @@
 ### Hi there 😁
 
-I'm Leo, from São Paulo - BR. I hold a degree in Technology (FATEC-OU) and I have two MBAs as well. The first in Oracle Database Administrations and the second in Project Management (FGV). I've been working as developer, business analyst and tech lead since 1999. Currently I'm working as a software development engineer at [Fiserv](https://www.linkedin.com/company/fiserv/) and studying Java applications using Spring Boot Framework (Web, MVC, JPA, Junit). Besides that, I'm studying for a Geography degree. I'm father of two girls (Clara and Manu, daddy loves you). In my free time, I usually walk (4~5K every day) listening music. I like to read Geography and History stuffs and listen podcasts about it. I was a Volunteacher at [CPM](https://www.cidadaopromundo.org/), a NGO that helps young students to learn english, during two years. Unfortunatelly this semester I had to stop, but I'll retake soon.
+I'm Leo, from São Paulo - BR.
+
+Currently I'm working as a software development engineer at [Fiserv](https://www.linkedin.com/company/fiserv/) and studying Java applications using Spring Boot Framework (Web, MVC, JPA, Junit). Besides that, I'm studying for a Geography degree (nothing professional for now).
+
+I'm Elaine's husband and father of two beatiful girls (Clara and Manu, daddy loves you). In my free time, I usually walk (4~5K every day) listening music. I like to read Geography and History stuffs and listen podcasts about it. 
+
+I hold a degree in Technology (FATEC-OU) and I have two MBAs as well. The first in Oracle Database Administrations and the second in Project Management (FGV). I've been working as developer, business analyst and tech lead since 1999. I was a Volunteacher at [CPM](https://www.cidadaopromundo.org/), a NGO that helps young students to learn english, during two years. Unfortunatelly this semester I had to stop, but I'll retake soon.
 
 
 Connect with me by social media:
