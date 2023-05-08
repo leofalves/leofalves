@@ -2,7 +2,7 @@
 
 I'm Leo, from São Paulo - BR.
 
-Currently I'm working as a software development engineer at [Fiserv](https://www.linkedin.com/company/fiserv/) and studying Java applications using Spring Boot Framework (Web, MVC, JPA, Junit). Besides that, I'm studying for a Geography degree (nothing professional for now).
+Currently I'm working as a Oracle developer at [Luxair](https://www.linkedin.com/company/luxair/mycompany/) and studying Java applications using Spring Boot Framework (Web, MVC, JPA, Junit).
 
 I'm Elaine's husband and father of two beatiful girls (Clara and Manu, daddy loves you). In my free time, I usually walk (4~5K every day) listening music. I like to read Geography and History stuffs and listen podcasts about it. 
 
