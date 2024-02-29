@@ -2,15 +2,11 @@
 
 I'm Leo, from São Paulo - BR.
 
-Currently, I'm working as an Oracle developer at [Luxair](https://www.linkedin.com/company/luxair/mycompany/) in Luxembourg. I am currently studying Java applications using Spring Boot Framework (Spring Web, Spring MVC, Spring Data JPA and Junit).
+Currently, I'm working as an Oracle developer at [Luxair](https://www.linkedin.com/company/luxair/mycompany/) in Luxembourg. I am studying Java applications using Spring Boot Framework (Spring Web, Spring MVC, Spring Data JPA and Junit).
 
-I'm Elaine's husband and father of two beautiful girls (Clara and Manu, Daddy loves you). In my free time, I usually walk/jogging (4~5K three times a week). I like to read Geography and History stuff and listen to podcasts about it. 
-
-I hold a degree in Technology (FATEC-OU) and I have two MBAs as well. The first in Oracle Database Administrations and the second in Project Management (FGV). I've been working as a developer, business analyst and tech lead since 1999. I am also a Volunteacher at [CPM](https://www.cidadaopromundo.org/), an NGO that helps young students to learn English.
-
+I hold a degree in Technology (FATEC-OU) and I did two specializations too, the first one Oracle Database Administration (FIAP) and the second one Project Management (FGV). I've been working as a developer, business analyst and tech lead since 1999. I am also a Volunteacher at [CPM](https://www.cidadaopromundo.org/), an NGO that helps young students to learn English.
 
 Connect with me via social media:
-
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leofabalves)](https://twitter.com/leofabalves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leofabiano/)](https://www.linkedin.com/in/leofabiano/)
