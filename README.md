@@ -1,10 +1,14 @@
 ### Hi there 😁
 
-I'm Leo, from São Paulo - BR.
+I'm Leo, from São Paulo - BR. I am the father of two beautiful girls, Clara and Manuela.
 
-Currently, I'm working as an Oracle developer at [Luxair](https://www.linkedin.com/company/luxair/mycompany/) in Luxembourg. I am studying Java applications using Spring Boot Framework (Spring Web, Spring MVC, Spring Data JPA and Junit).
+Currently, I'm working as an Oracle Consultant at [CVC](https://www.linkedin.com/company/cvc/).
 
-I hold a degree in Technology (FATEC-OU) and I did two specializations too, the first one Oracle Database Administration (FIAP) and the second one Project Management (FGV). I've been working as a developer, business analyst and tech lead since 1999. I am also a Volunteacher at [CPM](https://www.cidadaopromundo.org/), an NGO that helps young students to learn English.
+I hold a degree in Technology (FATEC-OU) and I did two specializations, the first one Oracle Database Administration (FIAP) and the second one Project Management (FGV). 
+
+I've been working as a developer, business analyst, and tech lead since 1999 for different companies like banks, tourism operators, and airline companies. 
+
+I've also had two international work experiences, the first in Angola and the second in Luxembourg and I have an experience as a volunteer at [CPM](https://www.cidadaopromundo.org/), an NGO that helps young students to learn English.
 
 Connect with me via social media:
 
