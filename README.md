@@ -12,7 +12,6 @@ I've also had two international work experiences, the first in Angola and the se
 
 Connect with me via social media:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leofabalves)](https://twitter.com/leofabalves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leofabiano/)](https://www.linkedin.com/in/leofabiano/)
 
 
